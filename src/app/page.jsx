@@ -3,7 +3,6 @@
 import { useState, useEffect } from "react"
 import { AnimatePresence } from "motion/react"
 import Loader from "./components/Loader"
-import Countdown from "./components/Countdown"
 import Celebration from "./components/Celebration"
 import HappyBirthday from "./components/HappyBirthday"
 import PhotoGallery from "./components/PhotoGallery"
